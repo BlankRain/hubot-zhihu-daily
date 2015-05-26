@@ -1,0 +1,22 @@
+{
+  "name": "hubot-zhihu-daily",
+  "description": "Hubot script for zhihu daily",
+  "version": "0.1.0",
+  "author": "suosuopuo <suosuopuo@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "zhihu"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suosuopuo/hubot-zhihu-daily.git"
+  },
+  "bugs": {
+    "url": "https://github.com/suosuopuo/hubot-zhihu-daily/issues"
+  },
+  "dependencies": {},
+  "main": "zhihu-daily.coffee",
+  "scripts": {}
+}
